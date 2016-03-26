@@ -6,5 +6,5 @@ My solutions to the problems on [Project Euler] (https://projecteuler.net/archiv
 ## For Running 
 
 * Go
-** go run XXX.go
+ * go run XXX.go
 
